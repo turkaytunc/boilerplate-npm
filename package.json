@@ -12,6 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "git@github.com:turkaytunc/boilerplate-npm.git"
+	},
+	"author":  "Turkay Tunc"
 }
